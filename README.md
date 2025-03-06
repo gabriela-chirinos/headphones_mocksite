@@ -1,17 +1,18 @@
+# 🎧 Phono - Headphones of the Future
+
+
+## 📹 Project Demo (GIF)
+
+![Phono Demo](/gif.gif)
+
 
 LIVE-DEMO ( PRACTICE-WIREFRAME)
 
 https://gabriela-chirinos.github.io/headphones_mocksite/
 
 =======
-# 🎧 Phono - Headphones of the Future
 
 **Project Type:** Static Landing Page (Practice Project)  
-
-
-## 📹 Project Demo (GIF)
-
-![Phono Demo](/gif.gif)
 
 ---
 
